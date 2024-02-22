@@ -1,1 +1,1 @@
-Host link : https://github.com/Anuj2117/Background-Properties.git
+Host link : https://anuj2117.github.io/Background-Properties/
